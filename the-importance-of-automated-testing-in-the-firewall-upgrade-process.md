@@ -1,9 +1,8 @@
-The Importance of Automated Testing in the Firewall Upgrade Process
-
+#The Importance of Automated Testing in the Firewall Upgrade Process
 
 High digitalization of today’s business and dynamically changing network environments require strong focus on cybersecurity. With continuously evolving network threats, companies need to keep their firewall solutions updated with new features and enhancements which respond to changing security challenges. However, the upgrade process must take into consideration numerous customer-specific elements, which might affect the upgrade efficiency and effectiveness. CodiLime has a solution for this challenge: a customized upgrade process and testing automation.
 
-Adjusting the solution to a specific customer is crucial, as shown with the example presented by Adrian Celebański and Adam Baumeister in their conference talk entitled “Delivering large-scale operations with Ansible”. Preparing a plan for a healthcare company with 700+ care sites and 140+ hospitals, operating 24h a day, using a variety of platforms and numerous firewalls of different types, versions, and branches, resulting in more than 500 notes, CodiLime faced the following challenges:
+Adjusting the solution to a specific customer is crucial, as shown with the example presented by Adrian Celebański and Adam Baumeister in their conference talk entitled [“Delivering large-scale operations with Ansible”] (https://www.youtube.com/watch?v=nR4Mljl-cJI&ab_channel=NetworkAutomationForum). Preparing a plan for a healthcare company with 700+ care sites and 140+ hospitals, operating 24h a day, using a variety of platforms and numerous firewalls of different types, versions, and branches, resulting in more than 500 notes, CodiLime faced the following challenges:
 -	A large volume of time-consuming upgrade through all sites, platforms, firewall types and versions
 -	The complexity of software and hardware to be upgraded
 -	Industry specific operation of 24h a day with little time for downtime and low failure tolerance
